@@ -1,7 +1,7 @@
 # Framia - A 2D graphics page created by 3.1 Pro
 This is an animation completely generated using Gemini 3.1 Pro and Canvas. I got inspired from those Opus 5.5 animations on prompt-motion.com and this is my test with Gemini, using my own prompt and brand.
 
-> [INFO]
+> [NOTE]
 > This is not a real product. I created this only for testing out the capabilities of the model.
 
 ## Workflow
